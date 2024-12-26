@@ -1,3 +1,13 @@
 <resources>
+
     <string name="app_name">BroadcastReceiver</string>
+
+    <string name="main_activity_toggle_airplane_mode_info">Toggle Airplane Mode to See Result</string>
+
+    <string name="airplane_mode_unknown">""</string>
+
+    <string name="airplane_mode_on">Airplane Mode is ON</string>
+
+    <string name="airplane_mode_off">Airplane Mode is OFF</string>
+
 </resources>
